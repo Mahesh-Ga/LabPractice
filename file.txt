@@ -1,2 +1,3 @@
 THis is file 1
 Changes by branch1
+changes by branch2
